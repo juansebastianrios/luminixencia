@@ -1,2 +1,2 @@
-# luminixencia
+# Luminixencia
 Joyeria Artesanal
