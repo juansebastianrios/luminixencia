@@ -2,8 +2,6 @@
 ***
 ## Tabla de Contenido
 ***
-- [Luminixencia](#luminixencia)
-  - [Tabla de Contenido](#tabla-de-contenido)
   - [Descripción](#descripción)
   - [Instalación](#instalación)
   - [Uso](#uso)
